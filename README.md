@@ -1,1 +1,1 @@
-A booklist created with GraphQL, MongoDB, Node.js and React
+A booklist created with GraphQL, MongoDB, Node.js and React.
